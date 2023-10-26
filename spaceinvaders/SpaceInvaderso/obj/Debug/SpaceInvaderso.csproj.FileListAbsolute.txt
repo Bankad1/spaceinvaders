@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\mscapps\SpaceInvaderso\bin\Debug\SpaceInvaderso.exe.config
+C:\Users\user\Desktop\mscapps\SpaceInvaderso\bin\Debug\SpaceInvaderso.exe
+C:\Users\user\Desktop\mscapps\SpaceInvaderso\bin\Debug\SpaceInvaderso.pdb
+C:\Users\user\Desktop\mscapps\SpaceInvaderso\obj\Debug\SpaceInvaderso.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\mscapps\SpaceInvaderso\obj\Debug\SpaceInvaderso.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\mscapps\SpaceInvaderso\obj\Debug\SpaceInvaderso.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\mscapps\SpaceInvaderso\obj\Debug\SpaceInvaderso.exe
+C:\Users\user\Desktop\mscapps\SpaceInvaderso\obj\Debug\SpaceInvaderso.pdb
+C:\spaceinvaders\SpaceInvaderso\bin\Debug\SpaceInvaderso.exe.config
+C:\spaceinvaders\SpaceInvaderso\bin\Debug\SpaceInvaderso.exe
+C:\spaceinvaders\SpaceInvaderso\bin\Debug\SpaceInvaderso.pdb
+C:\spaceinvaders\SpaceInvaderso\obj\Debug\SpaceInvaderso.csproj.AssemblyReference.cache
+C:\spaceinvaders\SpaceInvaderso\obj\Debug\SpaceInvaderso.csproj.CoreCompileInputs.cache
+C:\spaceinvaders\SpaceInvaderso\obj\Debug\SpaceInvaderso.exe
+C:\spaceinvaders\SpaceInvaderso\obj\Debug\SpaceInvaderso.pdb
